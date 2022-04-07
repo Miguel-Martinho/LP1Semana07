@@ -1,0 +1,16 @@
+namespace ColorBalls
+{
+    Class Color
+    {
+        private byte red;
+        private byte green;
+        private byte blue;
+        private byte alpha;
+        public ColorBalls(r byte, g byte, b byte, a, byte)
+        {   
+            Red = r;
+            Green = g;
+            Blue = b;
+        }
+    }
+}
